@@ -1,2 +1,4 @@
-name = Paragraph Contextual Edit
+name = Paragraphs Contextual Edit
+package = Paragraphs
+dependencies[] = paragraphs:paragraphs
 core = 7.x
